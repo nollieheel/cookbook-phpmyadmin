@@ -49,7 +49,7 @@ Ubuntu 14.04 (Might probably work on others, too, but not tested)
     <td><tt>['cookbook-phpmyadmin']['config']['statements']</tt></td>
     <td>Array</td>
     <td>An array of declaration strings that you might want to add in the config file</td>
-    <td><tt>true</tt></td>
+    <td><tt>[]</tt></td>
   </tr>
 </table>
 
